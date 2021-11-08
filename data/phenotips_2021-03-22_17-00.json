@@ -1,0 +1,5917 @@
+[
+  {
+    "allergies": [],
+    "date": "2020-02-20T22:36:11.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": false,
+      "consanguinity": false,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "hemophagocytosis\r\ndegranulation defect\r\nfamilial hemophagocytic lymphohistiocytosis",
+      "prenatal_development": "",
+      "indication_for_referral": "hemophagocytosis\r\ndegranulation defect\r\nfamilial hemophagocytic lymphohistiocytosis",
+      "medical_history": "",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+    "life_status": "alive",
+    "sex": "F",
+    "clinical-diagnosis": [],
+    "global_mode_of_inheritance": [],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [
+      {
+        "id": "MIM:603552",
+        "label": "HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 4"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002841",
+        "label": "Recurrent fungal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011274",
+        "label": "Recurrent mycobacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012302",
+        "label": "Herpes simplex encephalitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012475",
+        "label": "Decreased circulating level of specific antibody",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012740",
+        "label": "Papilloma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031692",
+        "label": "Severe cytomegalovirus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031693",
+        "label": "Severe Epstein Barr virus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "notes": "hemophagocytosis\r\ndegranulation defect\r\nfamilial hemophagocytic lymphohistiocytosis",
+        "id": "HP:0012156",
+        "label": "Hemophagocytosis",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000211",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-09T22:35:03.000Z",
+    "nonstandard_features": [{ "label": "degranulation", "type": "phenotype", "observed": "yes" }],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": [],
+    "date": "2020-02-21T05:31:41.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": true,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "",
+      "prenatal_development": "",
+      "indication_for_referral": "\"recurrent pneumonia\r\nempyema\r\notitis media discharging\r\nlow pneumococcal antibodies \r\nConsanguinity\"",
+      "medical_history": "\"recurrent pneumonia\r\nempyema\r\notitis media discharging\r\nlow pneumococcal antibodies \r\nConsanguinity\"",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": {
+      "maternal_ethnicity": ["lebanese "],
+      "paternal_ethnicity": ["lebanese "]
+    },
+    "life_status": "alive",
+    "sex": "M",
+    "clinical-diagnosis": [],
+    "global_mode_of_inheritance": [],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0003593", "label": "Infantile onset" }],
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001744",
+        "label": "Splenomegaly",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002841",
+        "label": "Recurrent fungal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011274",
+        "label": "Recurrent mycobacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012302",
+        "label": "Herpes simplex encephalitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012740",
+        "label": "Papilloma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031692",
+        "label": "Severe cytomegalovirus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031693",
+        "label": "Severe Epstein Barr virus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002848",
+        "label": "Specific anti-polysaccharide antibody deficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004313",
+        "label": "Decreased antibody level in blood",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "notes": "improved over time ",
+        "qualifiers": [
+          {
+            "id": "HP:0003593",
+            "label": "Infantile onset",
+            "type": "age_of_onset"
+          }
+        ],
+        "id": "HP:0006532",
+        "label": "Recurrent pneumonia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011919",
+        "label": "Pleural empyema",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012475",
+        "label": "Decreased circulating level of specific antibody",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012476",
+        "label": "Specific pneumococcal antibody deficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0031353",
+        "label": "Otitis media with effusion",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000212",
+    "last_modification_date": "2020-07-02T05:30:26.000Z",
+    "nonstandard_features": [
+      { "label": "low antibodies", "type": "phenotype", "observed": "yes" },
+      {
+        "notes": "polysaccharide antibodies",
+        "label": "low pneumacoccal antibodies",
+        "categories": [
+          {
+            "id": "HP:0001939",
+            "label": "Abnormality of metabolism/homeostasis"
+          }
+        ],
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": [],
+    "date": "2020-02-21T05:43:20.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": null,
+      "affectedRelatives": null
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "",
+      "prenatal_development": "",
+      "indication_for_referral": "\"Autoimmune thrombocytopenia \r\nautoimmune hemolytic anaemia\r\npanhypogammaglobinaemia\r\nEvans Sydrome\r\nIBD\"",
+      "medical_history": "\"Autoimmune thrombocytopenia \r\nautoimmune hemolytic anaemia\r\npanhypogammaglobinaemia\r\nEvans Sydrome\r\nIBD\"",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+    "life_status": "alive",
+    "sex": "M",
+    "clinical-diagnosis": [{ "id": "ORDO:1959", "label": "Evans syndrome" }],
+    "global_mode_of_inheritance": [],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [
+      { "id": "MIM:612244", "label": "INFLAMMATORY BOWEL DISEASE 13" },
+      { "id": "MIM:205700", "label": "ANEMIA, AUTOIMMUNE HEMOLYTIC" }
+    ],
+    "features": [
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002841",
+        "label": "Recurrent fungal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005374",
+        "label": "Cellular immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005387",
+        "label": "Combined immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005406",
+        "label": "Recurrent bacterial skin infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005420",
+        "label": "Recurrent gram-negative bacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0007499",
+        "label": "Recurrent staphylococcal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011274",
+        "label": "Recurrent mycobacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012302",
+        "label": "Herpes simplex encephalitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012475",
+        "label": "Decreased circulating level of specific antibody",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012740",
+        "label": "Papilloma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031692",
+        "label": "Severe cytomegalovirus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031693",
+        "label": "Severe Epstein Barr virus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002037",
+        "label": "Inflammation of the large intestine",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003139",
+        "label": "Panhypogammaglobulinemia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005363",
+        "label": "Humoral immunodeficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000213",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-09T23:23:45.000Z",
+    "nonstandard_features": [
+      { "label": "IBD", "type": "phenotype", "observed": "yes" },
+      {
+        "label": "panhypogammaglobinaemia",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": ["NKDA"],
+    "date": "2020-02-21T05:50:55.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": false,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "",
+      "prenatal_development": "",
+      "indication_for_referral": "\"Eczema\r\neosinophilic gastritis\r\nrecurrent lower respiratory tract infections\r\nbronchiectasis\r\nfinger clubbing\"",
+      "medical_history": "Developmentally normal.  Recurrent chest infections with bronchiectasis and finger clubbing.   ",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": {
+      "maternal_ethnicity": ["vietnamese"],
+      "paternal_ethnicity": ["vietnamese"]
+    },
+    "life_status": "alive",
+    "sex": "M",
+    "clinical-diagnosis": [{ "id": "ORDO:60033", "label": "Idiopathic bronchiectasis" }],
+    "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [{ "label": "affected" }],
+    "features": [
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001744",
+        "label": "Splenomegaly",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002841",
+        "label": "Recurrent fungal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005406",
+        "label": "Recurrent bacterial skin infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005420",
+        "label": "Recurrent gram-negative bacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0007499",
+        "label": "Recurrent staphylococcal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011274",
+        "label": "Recurrent mycobacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012475",
+        "label": "Decreased circulating level of specific antibody",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012740",
+        "label": "Papilloma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000976",
+        "label": "Eczematoid dermatitis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001155",
+        "label": "Abnormality of the hand",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001167",
+        "label": "Abnormality of finger",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002817",
+        "label": "Abnormality of the upper limb",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0040064",
+        "label": "Abnormality of limbs",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100759",
+        "label": "Clubbing of fingers",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0410147",
+        "label": "Eosinophilic infiltration in the stomach mucosa",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000214",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-30T05:24:26.000Z",
+    "nonstandard_features": [],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": ["NKDA"],
+    "date": "2020-02-21T05:58:07.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": null,
+      "affectedRelatives": null
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "brother has cleft lip",
+      "prenatal_development": "",
+      "indication_for_referral": "\"IBD\r\ngingivitis\r\nhypoglycaemic episodes\r\ninflammation of large intestine\r\nbrother has cleft lip\"",
+      "medical_history": "\"IBD\r\nsevere chronic gingivitis\r\nhypoglycaemic episodes\r\ninflammation of large intestine\r\nbrother has cleft lip\"",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+    "life_status": "alive",
+    "sex": "F",
+    "clinical-diagnosis": [],
+    "global_mode_of_inheritance": [],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [{ "label": "affected" }],
+    "features": [
+      {
+        "id": "HP:0000230",
+        "label": "Gingivitis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002037",
+        "label": "Inflammation of the large intestine",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000215",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-12T22:48:53.000Z",
+    "nonstandard_features": [
+      { "label": "IBD", "type": "phenotype", "observed": "yes" },
+      {
+        "label": "hypoglycaemic episodes",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": ["NKDA"],
+    "date": "2020-02-21T06:08:05.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": false,
+      "consanguinity": false,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "\"Autoimmune lymphoproliferative sydrome like disease\r\nsplenomegaly\r\nthrombocytopenia\r\nrecurrent herpes stomatitis\r\nrecurrent sinopulmonary infections responsive to antibody replacement\"",
+      "prenatal_development": "",
+      "indication_for_referral": "Autoimmune lymphoproliferative sydrome like entity \r\nsplenomegaly\r\nthrombocytopenia\r\nrecurrent herpes stomatitis\r\nrecurrent sinopulmonary infections responsive to antibody replacement\"",
+      "medical_history": "Bright young man with normal development \r\n\"Autoimmune lymphoproliferative sydrome like disease\r\nsplenomegaly\r\nthrombocytopenia\r\nrecurrent herpes stomatitis\r\nrecurrent sinopulmonary infections responsive to antibody replacement\r\nOcular stabismus ",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": {
+      "maternal_ethnicity": ["Caucasian"],
+      "paternal_ethnicity": ["Caucasian"]
+    },
+    "life_status": "alive",
+    "sex": "M",
+    "clinical-diagnosis": [
+      {
+        "id": "ORDO:275517",
+        "label": "Autoimmune lymphoproliferative syndrome with recurrent viral infections"
+      }
+    ],
+    "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006268",
+        "label": "Fluctuating splenomegaly",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001744",
+        "label": "Splenomegaly",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002848",
+        "label": "Specific anti-polysaccharide antibody deficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005353",
+        "label": "Recurrent herpes",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005425",
+        "label": "Recurrent sinopulmonary infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005523",
+        "label": "Lymphoproliferative disorder",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011107",
+        "label": "Recurrent aphthous stomatitis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012302",
+        "label": "Herpes simplex encephalitis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012475",
+        "label": "Decreased circulating level of specific antibody",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012476",
+        "label": "Specific pneumococcal antibody deficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0031404",
+        "label": "Impaired antigen-specific response",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0031693",
+        "label": "Severe Epstein Barr virus infection",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0410028",
+        "label": "Recurrent oral herpes",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000216",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-02T05:44:43.000Z",
+    "nonstandard_features": [
+      {
+        "label": "recurrent sinopulmonary infections responsive to antibody replacement",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": ["NKDA"],
+    "date": "2020-02-21T06:13:19.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": false,
+      "consanguinity": false,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "Female cousin of proband has apparent periodic fever syndrome ",
+      "prenatal_development": "",
+      "indication_for_referral": "Combined Immunodeficiency\r\nautoinflammatory syndrome\r\npanniculitis\r\nchronic hepatitis\r\nhepatosplenomegaly\r\nliver fibrosis progressing to cirrhosis \r\nhaemophagocytic sydrome\r\nFailure to thrive \r\nPossible lipodystrophy\r\nhaemolytic anaemia\r\nchronic norovirus \r\nchronic enterovirus\r\ncomplicated RSV\r\nPneumocystis pneumonia\r\nrecurrent viral infections\r\nRecipient cells rejected donor BMT graft\r\ndied from complications of portal hypertension\"",
+      "medical_history": "Neonatal onset of multi organ inflammatory disease with cytopaenias, liver inflammation and fibrosis leading to cirrhosis portal hypertension varices and eventual liver failure, panniculitis, ? lipodystrophy, tendency to hyperferritinaemic state, cytopaenias and splenomegaly, hypogammaglobulinaemia and chronic viral infections including norovirus and enterovirus. Also pneumocystis.  HSCT failed due to secondary loss of graft.  Died from complications of pulmonary hypertension.      ",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": {
+      "maternal_ethnicity": ["Caucasian"],
+      "paternal_ethnicity": ["Caucasian"]
+    },
+    "life_status": "deceased",
+    "sex": "F",
+    "clinical-diagnosis": [{ "label": "combined immunodeficiency" }],
+    "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0003623", "label": "Neonatal onset" }],
+    "disorders": [{ "label": "combined immunodeficiency" }],
+    "features": [
+      {
+        "id": "HP:0000119",
+        "label": "Abnormality of the genitourinary system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000478",
+        "label": "Abnormality of the eye",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000598",
+        "label": "Abnormality of the ear",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000769",
+        "label": "Abnormality of the breast",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001197",
+        "label": "Abnormality of prenatal development or birth",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001574",
+        "label": "Abnormality of the integument",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001626",
+        "label": "Abnormality of the cardiovascular system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001905",
+        "label": "Congenital thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001939",
+        "label": "Abnormality of metabolism/homeostasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002086",
+        "label": "Abnormality of the respiratory system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002664",
+        "label": "Neoplasm",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003011",
+        "label": "Abnormality of the musculature",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003549",
+        "label": "Abnormality of connective tissue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004809",
+        "label": "Neonatal alloimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004813",
+        "label": "Post-transfusion thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004859",
+        "label": "Amegakaryocytic thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006268",
+        "label": "Fluctuating splenomegaly",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011874",
+        "label": "Heparin-induced thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012302",
+        "label": "Herpes simplex encephalitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025031",
+        "label": "Abnormality of the digestive system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025521",
+        "label": "Increased body fat percentage",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0030853",
+        "label": "Heterotaxy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031692",
+        "label": "Severe cytomegalovirus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031693",
+        "label": "Severe Epstein Barr virus infection",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0040064",
+        "label": "Abnormality of limbs",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0040185",
+        "label": "Macrothrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000152",
+        "label": "Abnormality of head or neck",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000320",
+        "label": "Bird-like facies",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001433",
+        "label": "Hepatosplenomegaly",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001507",
+        "label": "Growth abnormality",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001510",
+        "label": "Growth delay",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001525",
+        "label": "Severe failure to thrive",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001531",
+        "label": "Failure to thrive in infancy",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001744",
+        "label": "Splenomegaly",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001871",
+        "label": "Abnormality of blood and blood-forming tissues",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001878",
+        "label": "Hemolytic anemia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002715",
+        "label": "Abnormality of the immune system",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002743",
+        "label": "Recurrent enteroviral infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004322",
+        "label": "Short stature",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004323",
+        "label": "Abnormality of body weight",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004325",
+        "label": "Decreased body weight",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004854",
+        "label": "Intermittent thrombocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005387",
+        "label": "Combined immunodeficiency",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008850",
+        "label": "Severe postnatal growth retardation",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008897",
+        "label": "Postnatal growth retardation",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010975",
+        "label": "Abnormal B cell count",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012490",
+        "label": "Panniculitis",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0025142",
+        "label": "Constitutional symptom",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0025539",
+        "label": "Abnormal B cell subset distribution",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0025540",
+        "label": "Abnormal T cell subset distribution",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": { "year": 2019 },
+    "report_id": "DEMO0000217",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-12T23:02:30.000Z",
+    "nonstandard_features": [
+      { "label": "HLH", "type": "phenotype", "observed": "yes" },
+      {
+        "label": "autoinflammatory syndrome",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "label": "chronic carrier of norovirus and EV71",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "label": "haemophagocytic syndrome",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      { "label": "norovirus", "type": "phenotype", "observed": "yes" }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 21 }
+  },
+  {
+    "allergies": [],
+    "date": "2020-02-23T23:10:39.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": false,
+      "affectedRelatives": false
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "",
+      "prenatal_development": "",
+      "indication_for_referral": "Abnormality of T cell number; Recurrent pneumonia. CD4 Lymphopaenia. Possibly outgrown with fewer infections as she gets older. ",
+      "medical_history": "Abnormality of T cell number; Recurrent pneumonia. CD4 Lymphopaenia. Possibly outgrown. ",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": {
+      "maternal_ethnicity": ["Caucasian"],
+      "paternal_ethnicity": ["Caucasian"]
+    },
+    "life_status": "alive",
+    "sex": "F",
+    "clinical-diagnosis": [{ "id": "ORDO:228000", "label": "Idiopathic CD4 lymphocytopenia" }],
+    "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+    "disorders": [{ "id": "MIM:615518", "label": "IMMUNODEFICIENCY 13" }],
+    "features": [
+      {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000155",
+        "label": "Oral ulcer",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000707",
+        "label": "Abnormality of the nervous system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000777",
+        "label": "Abnormality of the thymus",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000818",
+        "label": "Abnormality of the endocrine system",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000964",
+        "label": "Eczema",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001025",
+        "label": "Urticaria",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001369",
+        "label": "Arthritis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001508",
+        "label": "Failure to thrive",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001744",
+        "label": "Splenomegaly",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001875",
+        "label": "Neutropenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001877",
+        "label": "Abnormal erythrocyte morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001890",
+        "label": "Autoimmune hemolytic anemia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001954",
+        "label": "Recurrent fever",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002099",
+        "label": "Asthma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002665",
+        "label": "Lymphoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002720",
+        "label": "Decreased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002721",
+        "label": "Immunodeficiency",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002733",
+        "label": "Abnormality of the lymph nodes",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002841",
+        "label": "Recurrent fungal infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002850",
+        "label": "Decreased circulating total IgM",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003193",
+        "label": "Allergic rhinitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003212",
+        "label": "Increased circulating total IgE level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003237",
+        "label": "Increased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003261",
+        "label": "Increased circulating IgA level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003496",
+        "label": "Increased circulating IgM level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0003765",
+        "label": "Psoriasiform dermatitis",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004315",
+        "label": "Decreased circulating IgG level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0004429",
+        "label": "Recurrent viral infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0005479",
+        "label": "Decreased circulating total IgE",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0006530",
+        "label": "Interstitial pulmonary abnormality",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0011274",
+        "label": "Recurrent mycobacterial infections",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012310",
+        "label": "Abnormal monocyte count",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012378",
+        "label": "Fatigue",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0012740",
+        "label": "Papilloma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0025532",
+        "label": "Positive pathergy test",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031234",
+        "label": "Neutrophilic infiltration of the skin",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0031393",
+        "label": "Abnormal proportion of CD8 T cells",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100726",
+        "label": "Kaposi's sarcoma",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0100765",
+        "label": "Abnormality of the tonsils",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410245",
+        "label": "Decreased circulating total IgD",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0410246",
+        "label": "Increased circulating IgD level",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0500093",
+        "label": "Food allergy",
+        "type": "phenotype",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0002718",
+        "label": "Recurrent bacterial infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005429",
+        "label": "Recurrent systemic pyogenic infections",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006532",
+        "label": "Recurrent pneumonia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011839",
+        "label": "Abnormal T cell count",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0025540",
+        "label": "Abnormal T cell subset distribution",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0031392",
+        "label": "Abnormal proportion of CD4 T cells",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0031394",
+        "label": "Abnormal CD4:CD8 ratio",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000218",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-02T05:53:01.000Z",
+    "nonstandard_features": [{ "label": "CD4 Lymphopaenia.", "type": "phenotype", "observed": "yes" }],
+    "exam_date": { "month": 2, "year": 2020, "day": 24 }
+  },
+  {
+    "allergies": [],
+    "date": "2020-02-26T02:38:49.000Z",
+    "prenatal_perinatal_history": { "gestation": null },
+    "family_history": {
+      "miscarriages": null,
+      "consanguinity": null,
+      "affectedRelatives": null
+    },
+    "apgar": {},
+    "notes": {
+      "family_history": "",
+      "prenatal_development": "",
+      "indication_for_referral": "\"Rosai-Dorfman Disease\r\nidiopathic CD4 lymphocytopenia\r\nataxic encephalopathy \r\nataxia\r\nseizures\r\nlymphadenopathy\r\nduplication of chrom1p paternal\"",
+      "medical_history": "\"Rosai-Dorfman Disease\r\nidiopathic CD4 lymphocytopenia\r\nataxic encephalopathy \r\nataxia\r\nseizures\r\nlymphadenopathy\r\nduplication of chro1p paternal\"",
+      "diagnosis_notes": ""
+    },
+    "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+    "life_status": "alive",
+    "sex": "M",
+    "clinical-diagnosis": [],
+    "global_mode_of_inheritance": [],
+    "solved": { "status": "unsolved" },
+    "reporter": "karent",
+    "last_modified_by": "habtao",
+    "clinicalStatus": "affected",
+    "global_age_of_onset": [],
+    "disorders": [{ "label": "affected" }],
+    "features": [
+      {
+        "id": "HP:0001250",
+        "label": "Seizure",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001251",
+        "label": "Ataxia",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001298",
+        "label": "Encephalopathy",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002916",
+        "label": "Abnormality of chromosome segregation",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "date_of_death": "",
+    "report_id": "DEMO0000219",
+    "medical_reports": [],
+    "last_modification_date": "2020-07-15T22:37:09.000Z",
+    "nonstandard_features": [
+      {
+        "label": "Rosai-Dorfman Disease",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "label": "ataxic encephalopathy ",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "label": "chromosome duplication",
+        "type": "phenotype",
+        "observed": "yes"
+      },
+      {
+        "label": "idiopathic CD4 lymphocytopenia",
+        "type": "phenotype",
+        "observed": "yes"
+      }
+    ],
+    "exam_date": { "month": 2, "year": 2020, "day": 25 }
+  },
+  
+    {
+        "allergies": ["NKDA"],
+        "date": "2020-02-26T02:45:53.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": false,
+            "consanguinity": false,
+            "affectedRelatives": true
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "older sister has IBD. Not tested",
+            "prenatal_development": "",
+            "indication_for_referral": "Severe eczema / Inflammatory bowel disease. Older sister also has IBD.",
+            "medical_history": "Severe eczema - very difficult to control requiring immunosuppression.  Difficult IBD requiring biologic therapy with anti-TNF agent.  Sister has IBD requiring biologic therapy.  Therefore ?? autosomal recessive inheritance ",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": {
+            "maternal_ethnicity": ["Indian"],
+            "paternal_ethnicity": ["Indian"]
+        },
+        "life_status": "alive",
+        "sex": "F",
+        "clinical-diagnosis": [{ "id": "ORDO:104012", "label": "Rare inflammatory bowel disease" }],
+        "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+        "disorders": [{ "id": "MIM:603165", "label": "DERMATITIS, ATOPIC" }],
+        "features": [
+            {
+                "id": "HP:0000118",
+                "label": "Phenotypic abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000155",
+                "label": "Oral ulcer",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000234",
+                "label": "Abnormality of the head",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000707",
+                "label": "Abnormality of the nervous system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000777",
+                "label": "Abnormality of the thymus",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000818",
+                "label": "Abnormality of the endocrine system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001369",
+                "label": "Arthritis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001508",
+                "label": "Failure to thrive",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001744",
+                "label": "Splenomegaly",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001873",
+                "label": "Thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001875",
+                "label": "Neutropenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001877",
+                "label": "Abnormal erythrocyte morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001890",
+                "label": "Autoimmune hemolytic anemia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001954",
+                "label": "Recurrent fever",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001973",
+                "label": "Autoimmune thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002110",
+                "label": "Bronchiectasis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002665",
+                "label": "Lymphoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002716",
+                "label": "Lymphadenopathy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002718",
+                "label": "Recurrent bacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002720",
+                "label": "Decreased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002721",
+                "label": "Immunodeficiency",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002733",
+                "label": "Abnormality of the lymph nodes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002841",
+                "label": "Recurrent fungal infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002850",
+                "label": "Decreased circulating total IgM",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003261",
+                "label": "Increased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003496",
+                "label": "Increased circulating IgM level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003765",
+                "label": "Psoriasiform dermatitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004315",
+                "label": "Decreased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004429",
+                "label": "Recurrent viral infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005479",
+                "label": "Decreased circulating total IgE",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010975",
+                "label": "Abnormal B cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010978",
+                "label": "Abnormality of immune system physiology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011274",
+                "label": "Recurrent mycobacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011839",
+                "label": "Abnormal T cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012310",
+                "label": "Abnormal monocyte count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012378",
+                "label": "Fatigue",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012475",
+                "label": "Decreased circulating level of specific antibody",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012740",
+                "label": "Papilloma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025532",
+                "label": "Positive pathergy test",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031234",
+                "label": "Neutrophilic infiltration of the skin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100726",
+                "label": "Kaposi's sarcoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100765",
+                "label": "Abnormality of the tonsils",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410245",
+                "label": "Decreased circulating total IgD",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410246",
+                "label": "Increased circulating IgD level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000964",
+                "label": "Eczema",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000976",
+                "label": "Eczematoid dermatitis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002037",
+                "label": "Inflammation of the large intestine",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002242",
+                "label": "Abnormal intestine morphology",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002250",
+                "label": "Abnormal large intestine morphology",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000220",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:02:13.000Z",
+        "nonstandard_features": [
+            {
+                "label": "anti-TNF",
+                "categories": [
+                    {
+                        "id": "HP:0010978",
+                        "label": "Abnormality of immune system physiology"
+                    }
+                ],
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "exam_date": { "month": 2, "year": 2020, "day": 26 }
+    },
+    {
+        "allergies": ["NKDA"],
+        "date": "2020-02-27T01:24:09.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": true,
+            "affectedRelatives": false
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "",
+            "prenatal_development": "",
+            "indication_for_referral": "\"Pericarditis; Haemophilus pericarditis. Parents consanguineous.\r\nFrom Saudi, probably gone back.\"",
+            "medical_history": "Initially well; haemophilus pericarditis",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": {
+            "maternal_ethnicity": ["saudi"],
+            "paternal_ethnicity": ["saudi"]
+        },
+        "life_status": "alive",
+        "sex": "M",
+        "clinical-diagnosis": [{ "label": "infective pericarditis" }],
+        "global_mode_of_inheritance": [{ "id": "HP:0000007", "label": "Autosomal recessive inheritance" }],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+        "disorders": [{ "label": "immunodeficiency" }],
+        "features": [
+            {
+                "id": "HP:0000118",
+                "label": "Phenotypic abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000155",
+                "label": "Oral ulcer",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000234",
+                "label": "Abnormality of the head",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000707",
+                "label": "Abnormality of the nervous system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000777",
+                "label": "Abnormality of the thymus",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000818",
+                "label": "Abnormality of the endocrine system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000964",
+                "label": "Eczema",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001369",
+                "label": "Arthritis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001508",
+                "label": "Failure to thrive",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001744",
+                "label": "Splenomegaly",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001873",
+                "label": "Thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001875",
+                "label": "Neutropenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001877",
+                "label": "Abnormal erythrocyte morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001890",
+                "label": "Autoimmune hemolytic anemia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001954",
+                "label": "Recurrent fever",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001973",
+                "label": "Autoimmune thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002099",
+                "label": "Asthma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002110",
+                "label": "Bronchiectasis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002242",
+                "label": "Abnormal intestine morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002665",
+                "label": "Lymphoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002716",
+                "label": "Lymphadenopathy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002720",
+                "label": "Decreased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002721",
+                "label": "Immunodeficiency",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002733",
+                "label": "Abnormality of the lymph nodes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002841",
+                "label": "Recurrent fungal infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002850",
+                "label": "Decreased circulating total IgM",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003193",
+                "label": "Allergic rhinitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003261",
+                "label": "Increased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003496",
+                "label": "Increased circulating IgM level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003765",
+                "label": "Psoriasiform dermatitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004315",
+                "label": "Decreased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004429",
+                "label": "Recurrent viral infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005406",
+                "label": "Recurrent bacterial skin infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005420",
+                "label": "Recurrent gram-negative bacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005479",
+                "label": "Decreased circulating total IgE",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0007499",
+                "label": "Recurrent staphylococcal infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010975",
+                "label": "Abnormal B cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010978",
+                "label": "Abnormality of immune system physiology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011274",
+                "label": "Recurrent mycobacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011839",
+                "label": "Abnormal T cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012310",
+                "label": "Abnormal monocyte count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012378",
+                "label": "Fatigue",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012475",
+                "label": "Decreased circulating level of specific antibody",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012740",
+                "label": "Papilloma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025532",
+                "label": "Positive pathergy test",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031234",
+                "label": "Neutrophilic infiltration of the skin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100726",
+                "label": "Kaposi's sarcoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100765",
+                "label": "Abnormality of the tonsils",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410245",
+                "label": "Decreased circulating total IgD",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410246",
+                "label": "Increased circulating IgD level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0500093",
+                "label": "Food allergy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001701",
+                "label": "Pericarditis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002718",
+                "label": "Recurrent bacterial infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0005429",
+                "label": "Recurrent systemic pyogenic infections",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000221",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:07:42.000Z",
+        "nonstandard_features": [
+            {
+                "label": "Haemophilus pericarditis",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "exam_date": { "month": 2, "year": 2020, "day": 27 }
+    },
+    {
+        "allergies": [],
+        "date": "2020-02-27T04:52:13.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": null,
+            "affectedRelatives": null
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "Maternal HIstory :\r\nRecurrent fevers and rash\r\nOnset 15 years - diagnosed as TRAPS \r\nMental health issues \r\nTrialled Etanercept \u2013 good response but stopped in pregnancy\r\nTrial anikinra \u2013 adherence difficult and variable engagement with services\r\nGenetics \r\nTNFRSF1A (exons 2,3,4,5) \u2013 no mutation (CHW 2003)\r\nMEFV (exon 10b (663-779) and exon 2 (92-242)) \u2013 no mutations (CHW 2003)\r\n",
+            "prenatal_development": "",
+            "indication_for_referral": "2008-12-03\r\nAutoinflammatory \u2013 recurrent fevers and abdominal / joint pain\r\nOnset \u2013 8 months of age\r\nEpisodes occurring 1-5 /month \u2013 avg fortnightly\r\nStart with fever 24-48 hrs\r\nUrticarial plaques that are tender with no migration \uf0e0 Rash lasts 2-3 days\r\nAssociated malaise, myalgia, abdominal pain, pain in joints (toe walking), headache\r\nNo ocular inflammation\r\nComorbid issues\r\nEx 31/40 SGA baby \u2013 now growing ~25th centile for height & weight\r\nSignificant behavioural issues \u2013 ADHD / ODD\r\nRecurrent otitis media \u2013 conductive hearing loss (Sept 2018)\r\n\r\nPrescreening immune function \r\nNeutrophilia during attacks, no cytopenias\r\nNo LFT or renal function abnormalities\r\nLymph subsets & Igs normal (not hypergam)\r\nComplement normal, QuantiFERON neg\r\nANA, ENA negative\r\nHumoral immune function not yet tested\r\n\r\n",
+            "medical_history": "",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+        "life_status": "alive",
+        "sex": "F",
+        "clinical-diagnosis": [{ "label": "Traps" }],
+        "global_mode_of_inheritance": [],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [{ "id": "HP:0003593", "label": "Infantile onset" }],
+        "disorders": [],
+        "features": [
+            {
+                "id": "HP:0000388",
+                "label": "Otitis media",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000403",
+                "label": "Recurrent otitis media",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000405",
+                "label": "Conductive hearing impairment",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000708",
+                "label": "Behavioral abnormality",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001518",
+                "label": "Small for gestational age",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001945",
+                "label": "Fever",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001955",
+                "label": "Unexplained fevers",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002027",
+                "label": "Abdominal pain",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002315",
+                "label": "Headache",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002829",
+                "label": "Arthralgia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003326",
+                "label": "Myalgia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0007018",
+                "label": "Attention deficit hyperactivity disorder",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010865",
+                "label": "Oppositional defiant disorder",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0030351",
+                "label": "Urticarial plaque",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000222",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-01T23:30:51.000Z",
+        "nonstandard_features": [{ "label": "malaise", "type": "phenotype", "observed": "yes" }],
+        "exam_date": { "month": 2, "year": 2020, "day": 27 }
+    },
+    {
+        "allergies": [],
+        "date": "2020-03-02T04:11:34.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": true,
+            "affectedRelatives": true
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "Brother (AbS) \u2013 same features noted at 12mo (ILD to be confirmed)\r\n",
+            "prenatal_development": "",
+            "indication_for_referral": "Consanguinous \r\nsevere AD (1mo), FA, EOE, interstitial lung disease (3yo), severe short stature, digital contracture, dysmorphism\r\nNormal T/B subsets, High IgG (15.6), IgE (75,000), normal PHA, adequate vaccine responses\r\nnormal Treg proportion, normal STAT5 phosphorylation to IL-2 \r\nBrother (AbS) \u2013 same features noted at 12mo (ILD to be confirmed)",
+            "medical_history": "severe AD (1mo), FA, EOE, interstitial lung disease (3yo), severe short stature, digital contracture, dysmorphism\r\nBrother (AbS) \u2013 same features noted at 12mo (ILD to be confirmed)",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": {
+            "maternal_ethnicity": ["pakistani"],
+            "paternal_ethnicity": ["Muhajir (Pakistan)"]
+        },
+        "life_status": "alive",
+        "sex": "F",
+        "clinical-diagnosis": [],
+        "global_mode_of_inheritance": [{ "id": "HP:0000007", "label": "Autosomal recessive inheritance" }],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [],
+        "disorders": [{ "label": "affected" }],
+        "features": [
+            {
+                "id": "HP:0001371",
+                "label": "Flexion contracture",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001999",
+                "label": "Abnormal facial shape",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003510",
+                "label": "Severe short stature",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010864",
+                "label": "Intellectual disability, severe",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0410151",
+                "label": "Eosinophilic infiltration of the esophagus",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000223",
+        "medical_reports": [],
+        "last_modification_date": "2020-08-10T04:48:56.000Z",
+        "nonstandard_features": [
+            { "label": "FA", "type": "phenotype", "observed": "yes" },
+            { "label": "dysmorphism", "type": "phenotype", "observed": "yes" },
+            {
+                "label": "good vaccine response",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "exam_date": { "month": 3, "year": 2020, "day": 2 }
+    },
+    {
+        "allergies": [],
+        "date": "2020-03-02T04:46:28.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": true,
+            "affectedRelatives": null
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "",
+            "prenatal_development": "",
+            "indication_for_referral": "",
+            "medical_history": "normal T/B subsets, High IgE (351)",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+        "life_status": "alive",
+        "sex": "M",
+        "clinical-diagnosis": [],
+        "global_mode_of_inheritance": [],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [],
+        "disorders": [{ "label": "affected" }],
+        "features": [
+            {
+                "id": "HP:0001371",
+                "label": "Flexion contracture",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001999",
+                "label": "Abnormal facial shape",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0004322",
+                "label": "Short stature",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0410151",
+                "label": "Eosinophilic infiltration of the esophagus",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000224",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:17:29.000Z",
+        "nonstandard_features": [],
+        "exam_date": { "month": 3, "year": 2020, "day": 2 }
+    },
+    {
+        "allergies": ["NKDA"],
+        "date": "2020-03-03T22:43:48.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": false,
+            "consanguinity": false,
+            "affectedRelatives": false
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "Family history \u2013 father prostate cancer. Mother thyroid, uterine and adrenal cancer.",
+            "prenatal_development": "",
+            "indication_for_referral": "Classical Kaposi sarcoma. Fatigue, sleep disorder, chronic diarrhoea. Severe steroid-dependent childhood asthma.\r\nFamily history \u2013 father prostate cancer. Mother thyroid, uterine and adrenal cancer.",
+            "medical_history": "Severe steroid dependent asthma. Cushing's syndrome secondary to steroid use. Autistic spectrum disorder. Chronic diarrhoea with inflammation on biopsy consistent with mild colitis. Chronic fatigue. Brain fog. Polyarhralgia no synovitis. Classical Kaposi's sarcoma with lymph node involvement.",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": {
+            "maternal_ethnicity": ["Italians"],
+            "paternal_ethnicity": ["Italians"]
+        },
+        "life_status": "alive",
+        "sex": "M",
+        "clinical-diagnosis": [],
+        "global_mode_of_inheritance": [{ "id": "HP:0003745", "label": "Sporadic" }],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [{ "id": "HP:0011463", "label": "Childhood onset" }],
+        "disorders": [
+            {
+                "id": "MIM:616100",
+                "label": "AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE V"
+            }
+        ],
+        "features": [
+            {
+                "id": "HP:0000119",
+                "label": "Abnormality of the genitourinary system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000152",
+                "label": "Abnormality of head or neck",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000155",
+                "label": "Oral ulcer",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000234",
+                "label": "Abnormality of the head",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000478",
+                "label": "Abnormality of the eye",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000598",
+                "label": "Abnormality of the ear",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000769",
+                "label": "Abnormality of the breast",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000777",
+                "label": "Abnormality of the thymus",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000818",
+                "label": "Abnormality of the endocrine system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001197",
+                "label": "Abnormality of prenatal development or birth",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001507",
+                "label": "Growth abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001574",
+                "label": "Abnormality of the integument",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001608",
+                "label": "Abnormality of the voice",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001626",
+                "label": "Abnormality of the cardiovascular system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001744",
+                "label": "Splenomegaly",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001873",
+                "label": "Thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001875",
+                "label": "Neutropenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001877",
+                "label": "Abnormal erythrocyte morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001890",
+                "label": "Autoimmune hemolytic anemia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001939",
+                "label": "Abnormality of metabolism/homeostasis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001954",
+                "label": "Recurrent fever",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001973",
+                "label": "Autoimmune thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002110",
+                "label": "Bronchiectasis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002718",
+                "label": "Recurrent bacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002720",
+                "label": "Decreased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002721",
+                "label": "Immunodeficiency",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002841",
+                "label": "Recurrent fungal infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002850",
+                "label": "Decreased circulating total IgM",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003011",
+                "label": "Abnormality of the musculature",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003261",
+                "label": "Increased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003496",
+                "label": "Increased circulating IgM level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003549",
+                "label": "Abnormality of connective tissue",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004315",
+                "label": "Decreased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004429",
+                "label": "Recurrent viral infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005479",
+                "label": "Decreased circulating total IgE",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010978",
+                "label": "Abnormality of immune system physiology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011274",
+                "label": "Recurrent mycobacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012310",
+                "label": "Abnormal monocyte count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012475",
+                "label": "Decreased circulating level of specific antibody",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012531",
+                "label": "Pain",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012740",
+                "label": "Papilloma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025144",
+                "label": "Shivering",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025532",
+                "label": "Positive pathergy test",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0030166",
+                "label": "Night sweats",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031217",
+                "label": "Hot flashes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031234",
+                "label": "Neutrophilic infiltration of the skin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0040064",
+                "label": "Abnormality of limbs",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100758",
+                "label": "Gangrene",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410245",
+                "label": "Decreased circulating total IgD",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410246",
+                "label": "Increased circulating IgD level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0500093",
+                "label": "Food allergy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000118",
+                "label": "Phenotypic abnormality",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000707",
+                "label": "Abnormality of the nervous system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0000753",
+                "label": "Autism with high cognitive abilities",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001369",
+                "label": "Arthritis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002086",
+                "label": "Abnormality of the respiratory system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002099",
+                "label": "Asthma",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002360",
+                "label": "Sleep disturbance",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002583",
+                "label": "Colitis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002664",
+                "label": "Neoplasm",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002715",
+                "label": "Abnormality of the immune system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002716",
+                "label": "Lymphadenopathy",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002733",
+                "label": "Abnormality of the lymph nodes",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003118",
+                "label": "Increased circulating cortisol level",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0003193",
+                "label": "Allergic rhinitis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0005059",
+                "label": "Arthralgia/arthritis",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010975",
+                "label": "Abnormal B cell count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010987",
+                "label": "Abnormal cellular immune system morphology",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011792",
+                "label": "Neoplasm by histology",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011793",
+                "label": "Neoplasm by anatomical site",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011839",
+                "label": "Abnormal T cell count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012378",
+                "label": "Fatigue",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012432",
+                "label": "Chronic fatigue",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025031",
+                "label": "Abnormality of the digestive system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025142",
+                "label": "Constitutional symptom",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025354",
+                "label": "Abnormal cellular phenotype",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025539",
+                "label": "Abnormal B cell subset distribution",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025540",
+                "label": "Abnormal T cell subset distribution",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0031058",
+                "label": "Impairment of activities of daily living",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0031550",
+                "label": "Abnormal flow cytometry test result",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0100543",
+                "label": "Cognitive impairment",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0100726",
+                "label": "Kaposi's sarcoma",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000225",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:22:37.000Z",
+        "nonstandard_features": [
+            {
+                "label": "Decreased CTLA4 expression on Tregs; cryptic splicing detected on RNAseq and RT-PCR",
+                "categories": [],
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "label": "Expanded CD4+CD8+ double positive T cells and CD21lo memory B cells",
+                "categories": [{ "id": "HP:0010701", "label": "Abnormal immunoglobulin level" }],
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "label": "HHV8 ",
+                "categories": [{ "id": "HP:0002721", "label": "Immunodeficiency" }],
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "label": "HHV8 positive",
+                "categories": [
+                    {
+                        "id": "HP:0001939",
+                        "label": "Abnormality of metabolism/homeostasis"
+                    }
+                ],
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "label": "Sirolimus then everolimus",
+                "categories": [
+                    {
+                        "id": "HP:0010978",
+                        "label": "Abnormality of immune system physiology"
+                    }
+                ],
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "exam_date": { "month": 3, "year": 2020, "day": 4 }
+    },
+    {
+        "allergies": [],
+        "date": "2020-03-03T23:45:31.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": null,
+            "affectedRelatives": null
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "",
+            "prenatal_development": "",
+            "indication_for_referral": "Features consistent with monocytopenia and mycobacterial infection (MonoMAC) syndrome with disseminated MAC infection, monocytopaenia, HPV-associated skin warts and Bowen's disease, and myelodysplasia. Previously identified variant of uncertain significance in GATA2 (c.351C>G) with possible effect on splicing. ",
+            "medical_history": "",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+        "life_status": "alive",
+        "sex": "M",
+        "clinical-diagnosis": [{ "label": "GATA2 deficiency" }],
+        "global_mode_of_inheritance": [],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [],
+        "disorders": [{ "label": "GATA2 deficiency" }],
+        "features": [
+            {
+                "id": "HP:0000155",
+                "label": "Oral ulcer",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000234",
+                "label": "Abnormality of the head",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000707",
+                "label": "Abnormality of the nervous system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000777",
+                "label": "Abnormality of the thymus",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000818",
+                "label": "Abnormality of the endocrine system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000924",
+                "label": "Abnormality of the skeletal system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000964",
+                "label": "Eczema",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001369",
+                "label": "Arthritis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001507",
+                "label": "Growth abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001508",
+                "label": "Failure to thrive",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001608",
+                "label": "Abnormality of the voice",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001873",
+                "label": "Thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001875",
+                "label": "Neutropenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001890",
+                "label": "Autoimmune hemolytic anemia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001954",
+                "label": "Recurrent fever",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001973",
+                "label": "Autoimmune thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002099",
+                "label": "Asthma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002242",
+                "label": "Abnormal intestine morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002664",
+                "label": "Neoplasm",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002665",
+                "label": "Lymphoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002720",
+                "label": "Decreased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002721",
+                "label": "Immunodeficiency",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002733",
+                "label": "Abnormality of the lymph nodes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002850",
+                "label": "Decreased circulating total IgM",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003193",
+                "label": "Allergic rhinitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003261",
+                "label": "Increased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003496",
+                "label": "Increased circulating IgM level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003765",
+                "label": "Psoriasiform dermatitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004315",
+                "label": "Decreased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004429",
+                "label": "Recurrent viral infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005479",
+                "label": "Decreased circulating total IgE",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010970",
+                "label": "Blood group antigen abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010978",
+                "label": "Abnormality of immune system physiology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011839",
+                "label": "Abnormal T cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011902",
+                "label": "Abnormal hemoglobin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012475",
+                "label": "Decreased circulating level of specific antibody",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025142",
+                "label": "Constitutional symptom",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025532",
+                "label": "Positive pathergy test",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031234",
+                "label": "Neutrophilic infiltration of the skin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0045027",
+                "label": "Abnormality of the thoracic cavity",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100726",
+                "label": "Kaposi's sarcoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100765",
+                "label": "Abnormality of the tonsils",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410245",
+                "label": "Decreased circulating total IgD",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410246",
+                "label": "Increased circulating IgD level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0500093",
+                "label": "Food allergy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000118",
+                "label": "Phenotypic abnormality",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001574",
+                "label": "Abnormality of the integument",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001743",
+                "label": "Abnormality of the spleen",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001744",
+                "label": "Splenomegaly",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001876",
+                "label": "Pancytopenia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001877",
+                "label": "Abnormal erythrocyte morphology",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0001903",
+                "label": "Anemia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002086",
+                "label": "Abnormality of the respiratory system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002715",
+                "label": "Abnormality of the immune system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002716",
+                "label": "Lymphadenopathy",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "notes": "Chronic infection lung; CT chest abnormalities; Aspergillus culture positive ",
+                "id": "HP:0002724",
+                "label": "Recurrent Aspergillus infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002841",
+                "label": "Recurrent fungal infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002863",
+                "label": "Myelodysplasia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0002875",
+                "label": "Exertional dyspnea",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010972",
+                "label": "Anemia of inadequate production",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010975",
+                "label": "Abnormal B cell count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0010987",
+                "label": "Abnormal cellular immune system morphology",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011274",
+                "label": "Recurrent mycobacterial infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011275",
+                "label": "Recurrent mycobacterium avium complex infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0011895",
+                "label": "Anemia due to reduced life span of red cells",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012131",
+                "label": "Abnormal number of erythroid precursors",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012148",
+                "label": "Multiple lineage myelodysplasia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012310",
+                "label": "Abnormal monocyte count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012312",
+                "label": "Monocytopenia",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012378",
+                "label": "Fatigue",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012740",
+                "label": "Papilloma",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0020058",
+                "label": "Abnormal red blood cell count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0020060",
+                "label": "Decreased red blood cell count",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0020061",
+                "label": "Abnormal hemoglobin concentration",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0020062",
+                "label": "Decreased hemoglobin concentration",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025065",
+                "label": "Abnormal mean corpuscular volume",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0025546",
+                "label": "Abnormal mean corpuscular hemoglobin concentration",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0031850",
+                "label": "Abnormal hematocrit",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0031851",
+                "label": "Reduced hematocrit",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0100721",
+                "label": "Mediastinal lymphadenopathy",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0100763",
+                "label": "Abnormality of the lymphatic system",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0200043",
+                "label": "Verrucae",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000226",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:25:56.000Z",
+        "nonstandard_features": [
+            { "label": "MonoMac", "type": "phenotype", "observed": "yes" },
+            { "label": "dysp", "type": "phenotype", "observed": "yes" },
+            { "label": "hpv infection", "type": "phenotype", "observed": "yes" },
+            {
+                "label": "human papilloma virus infection",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "exam_date": { "month": 3, "year": 2020, "day": 4 }
+    },
+    {
+        "allergies": ["NKDA"],
+        "date": "2020-03-04T07:42:26.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": false,
+            "affectedRelatives": false
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "",
+            "prenatal_development": "",
+            "indication_for_referral": "HSV encephalitis mother and daughter. Resultant memory loss. ",
+            "medical_history": "Well other than the HSV encephalitis and memory loss ",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": {
+            "maternal_ethnicity": ["Han Chinese"],
+            "paternal_ethnicity": ["Han Chinese"]
+        },
+        "life_status": "alive",
+        "sex": "F",
+        "clinical-diagnosis": [{ "id": "ORDO:1930", "label": "Herpes simplex virus encephalitis" }],
+        "global_mode_of_inheritance": [{ "id": "HP:0000006", "label": "Autosomal dominant inheritance" }],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [{ "id": "HP:0011462", "label": "Young adult onset" }],
+        "disorders": [{ "label": "affected" }, { "label": "memory loss" }],
+        "features": [
+            {
+                "id": "HP:0000118",
+                "label": "Phenotypic abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000155",
+                "label": "Oral ulcer",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000234",
+                "label": "Abnormality of the head",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000707",
+                "label": "Abnormality of the nervous system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000777",
+                "label": "Abnormality of the thymus",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000818",
+                "label": "Abnormality of the endocrine system",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0000964",
+                "label": "Eczema",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001025",
+                "label": "Urticaria",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001369",
+                "label": "Arthritis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001508",
+                "label": "Failure to thrive",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001744",
+                "label": "Splenomegaly",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001873",
+                "label": "Thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001875",
+                "label": "Neutropenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001877",
+                "label": "Abnormal erythrocyte morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001890",
+                "label": "Autoimmune hemolytic anemia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001954",
+                "label": "Recurrent fever",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0001973",
+                "label": "Autoimmune thrombocytopenia",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002099",
+                "label": "Asthma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002110",
+                "label": "Bronchiectasis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002242",
+                "label": "Abnormal intestine morphology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002665",
+                "label": "Lymphoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002716",
+                "label": "Lymphadenopathy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002718",
+                "label": "Recurrent bacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002720",
+                "label": "Decreased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002721",
+                "label": "Immunodeficiency",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002733",
+                "label": "Abnormality of the lymph nodes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002743",
+                "label": "Recurrent enteroviral infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002841",
+                "label": "Recurrent fungal infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002850",
+                "label": "Decreased circulating total IgM",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003193",
+                "label": "Allergic rhinitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003212",
+                "label": "Increased circulating total IgE level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003237",
+                "label": "Increased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003261",
+                "label": "Increased circulating IgA level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003496",
+                "label": "Increased circulating IgM level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0003765",
+                "label": "Psoriasiform dermatitis",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0004315",
+                "label": "Decreased circulating IgG level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005360",
+                "label": "Susceptibility to chickenpox",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005396",
+                "label": "Susceptibility to coronavirus 229e",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005428",
+                "label": "Severe recurrent varicella",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0005479",
+                "label": "Decreased circulating total IgE",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0006530",
+                "label": "Interstitial pulmonary abnormality",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010975",
+                "label": "Abnormal B cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0010978",
+                "label": "Abnormality of immune system physiology",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011274",
+                "label": "Recurrent mycobacterial infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011371",
+                "label": "Recurrent viral skin infections",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0011839",
+                "label": "Abnormal T cell count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012310",
+                "label": "Abnormal monocyte count",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012378",
+                "label": "Fatigue",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012475",
+                "label": "Decreased circulating level of specific antibody",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0012740",
+                "label": "Papilloma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0025532",
+                "label": "Positive pathergy test",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0031234",
+                "label": "Neutrophilic infiltration of the skin",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100726",
+                "label": "Kaposi's sarcoma",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0100765",
+                "label": "Abnormality of the tonsils",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410028",
+                "label": "Recurrent oral herpes",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410245",
+                "label": "Decreased circulating total IgD",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0410246",
+                "label": "Increased circulating IgD level",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0500093",
+                "label": "Food allergy",
+                "type": "phenotype",
+                "observed": "no"
+            },
+            {
+                "id": "HP:0002354",
+                "label": "Memory impairment",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0004429",
+                "label": "Recurrent viral infections",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0005353",
+                "label": "Recurrent herpes",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012302",
+                "label": "Herpes simplex encephalitis",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000227",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:30:40.000Z",
+        "nonstandard_features": [],
+        "exam_date": { "month": 3, "year": 2020, "day": 4 }
+    },
+    {
+        "allergies": [],
+        "date": "2020-03-04T07:50:47.000Z",
+        "prenatal_perinatal_history": { "gestation": null },
+        "family_history": {
+            "miscarriages": null,
+            "consanguinity": null,
+            "affectedRelatives": null
+        },
+        "apgar": {},
+        "notes": {
+            "family_history": "",
+            "prenatal_development": "",
+            "indication_for_referral": "HSV encephalitis mother and daughter. Memory loss.",
+            "medical_history": "",
+            "diagnosis_notes": ""
+        },
+        "ethnicity": { "maternal_ethnicity": [], "paternal_ethnicity": [] },
+        "life_status": "alive",
+        "sex": "F",
+        "clinical-diagnosis": [],
+        "global_mode_of_inheritance": [],
+        "solved": { "status": "unsolved" },
+        "reporter": "karent",
+        "last_modified_by": "habtao",
+        "clinicalStatus": "affected",
+        "global_age_of_onset": [],
+        "disorders": [],
+        "features": [
+            {
+                "id": "HP:0002354",
+                "label": "Memory impairment",
+                "type": "phenotype",
+                "observed": "yes"
+            },
+            {
+                "id": "HP:0012302",
+                "label": "Herpes simplex encephalitis",
+                "type": "phenotype",
+                "observed": "yes"
+            }
+        ],
+        "date_of_death": "",
+        "report_id": "DEMO0000228",
+        "medical_reports": [],
+        "last_modification_date": "2020-07-02T06:32:26.000Z",
+        "nonstandard_features": [],
+        "exam_date": { "month": 3, "year": 2020, "day": 4 }
+    }
+
+
+]

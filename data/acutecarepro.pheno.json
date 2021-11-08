@@ -1,0 +1,2749 @@
+[
+  {
+    "externalIDs": "AC0059",
+    "internalIDs": "18W000206",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Central hypotonia",
+      "Apnea",
+      "Feeding difficulties in infancy",
+      "Bitemporal hollowing",
+      "Scaphocephaly"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0003",
+    "internalIDs": "18W000259",
+    "sex": "Female",
+    "Participant Ethnicity": "Maori/Pacific Islander",
+    "Maternal Ethnicity": "Maori/Pacific Islander",
+    "Paternal Ethnicity": "Maori/Pacific Islander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP:0001561 |Polyhydramnios",
+      "HP:0011419 |Placental abruption",
+      "HP:0009800 |Maternal diabetes"
+    ],
+    "Principal phenotypic features": [
+      "Hypertelorism",
+      "Upslanted palpebral fissure",
+      "Anteverted nares",
+      "Micrognathia",
+      "Cleft palate",
+      "Bifid tongue",
+      "Short neck",
+      "Triphalangeal thumb",
+      "Fused fourth and fifth metacarpals",
+      "Femur fracture",
+      "Bilateral talipes equinovarus"
+    ],
+    "Variant class": [
+      "3C ( VUS with low clinical significance, the evidence suggesting they are likely to be benign)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0036",
+    "internalIDs": "18W000263",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Rhabdomyolysis",
+      "Episodic ataxia",
+      "Global developmental delay"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0074",
+    "internalIDs": "18W000269",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Microcephaly",
+      "Seizures",
+      "Intellectual disability, profound",
+      "Obstructive sleep apnea",
+      "Hip dysplasia",
+      "Scoliosis"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0043",
+    "internalIDs": "18W000358",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "No (no affected siblings)",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "High-output congestive heart failure",
+      "Arterial calcification"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0065",
+    "internalIDs": "18W000461",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation",
+      "HP:0010880 |Increased nuchal translucency",
+      "HP:0001627 |Abnormal heart morphology"
+    ],
+    "Principal phenotypic features": [
+      "Hypoplastic left heart",
+      "Double outlet right ventricle",
+      "Ventricular septal defect",
+      "Interrupted aortic arch",
+      "Low-set ears",
+      "Multiple renal cysts"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0023",
+    "internalIDs": "18W000495",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Seizures",
+      "Leukodystrophy"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0048",
+    "internalIDs": "18W000676",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Propionicacidemia",
+      "Hypoplasia of the corpus callosum",
+      "Pontocerebellar atrophy",
+      "Hypospadias",
+      "Multiple renal cysts",
+      "Sacral dimple",
+      "Scaphocephaly",
+      "Atrial septal defect"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Homozygous",
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0061",
+    "internalIDs": "18W000770",
+    "sex": "Female",
+    "Participant Ethnicity": "Ashkenazi Jew",
+    "Maternal Ethnicity": "Ashkenazi Jew",
+    "Paternal Ethnicity": "Ashkenazi Jew",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Interstitial pulmonary abnormality",
+      "Pulmonary arterial hypertension",
+      "Perimembranous ventricular septal defect",
+      "Nephrocalcinosis",
+      "Intrauterine growth retardation"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0028",
+    "internalIDs": "18W000830",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Acute hepatic failure",
+      "Abnormality of the coagulation cascade",
+      "Shock"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0066",
+    "internalIDs": "18W000869",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hypertrophic cardiomyopathy",
+      "Abnormal mitral valve morphology",
+      "Abnormal pulmonary valve morphology",
+      "Hepatosplenomegaly"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0051",
+    "internalIDs": "18W000888",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0000776 |Congenital diaphragmatic hernia"
+    ],
+    "Principal phenotypic features": [
+      "Hypoplastic aortic arch",
+      "Nephrocalcinosis",
+      "Cystinuria"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0017",
+    "internalIDs": "18W000921",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Increased CSF lactate",
+      "Increased serum lactate",
+      "Pancytopenia",
+      "Abnormality of coagulation"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0039",
+    "internalIDs": "18W000932",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "Coarse facial features",
+      "Sparse hair",
+      "Hypertrichosis",
+      "Aplasia/Hypoplasia of the nails",
+      "Dysplastic corpus callosum"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "In frame deletion",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Hemizygous (X-linked)"
+    ]
+  },
+  {
+    "externalIDs": "AC0045",
+    "internalIDs": "18W000987",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Right ventricular cardiomyopathy",
+      "Right ventricular dilatation",
+      "Supraventricular tachycardia"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0021",
+    "internalIDs": "18W000992",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Total colonic aganglionosis"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0049",
+    "internalIDs": "18W001020",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "Uncertain",
+    "Is father affected?": "Uncertain",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Status epilepticus",
+      "Hypocalcemia",
+      "Basal ganglia calcification",
+      "Cerebral calcification"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Frameshift",
+      "Other"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0042",
+    "internalIDs": "18W001102",
+    "sex": "Male",
+    "Participant Ethnicity": "Sub-Saharan African",
+    "Maternal Ethnicity": "Sub-Saharan African",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "Not known",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Unknown",
+    "Number of variants reported": 3,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Microcephaly",
+      "Global developmental delay",
+      "Seizures",
+      "Cerebral palsy"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0076",
+    "internalIDs": "18W001118",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Dystonia",
+      "Cerebral palsy",
+      "Neutropenia",
+      "Episodic vomiting",
+      "Hearing impairment",
+      "Retinal dystrophy",
+      "Intellectual disability",
+      "Abnormality of the corpus callosum"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0031",
+    "internalIDs": "18W001122",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "Uncertain",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Desquamation of skin soon after birth",
+      "Erythroderma",
+      "Sparse eyebrow"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Frameshift",
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0083",
+    "internalIDs": "18W001149",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Central hypotonia",
+      "Nystagmus",
+      "Turricephaly",
+      "Bulbar signs",
+      "Feeding difficulties"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0054",
+    "internalIDs": "18W001162",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Central hypotonia",
+      "Cerebral atrophy",
+      "Hypothermia",
+      "Cryptorchidism"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Frameshift"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0071",
+    "internalIDs": "18W001212",
+    "sex": "Female",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 3,
+    "Relevant pregnancy information": [
+      "HP:0001558 |Decreased fetal movement"
+    ],
+    "Principal phenotypic features": [
+      "Hypoglycemia",
+      "Increased serum lactate",
+      "Hepatosplenomegaly",
+      "Abnormality of coagulation",
+      "Hyperbilirubinemia",
+      "Anemia",
+      "Elevated hepatic transaminases"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "3C ( VUS with low clinical significance, the evidence suggesting they are likely to be benign)"
+    ],
+    "Variant type": [
+      "Frameshift",
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Homozygous",
+      "Homozygous",
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0060",
+    "internalIDs": "18W001294",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish),Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0002643 |Neonatal respiratory distress",
+      "HP_0002092 |Pulmonary arterial hypertension",
+      "HP_0002908 |Conjugated hyperbilirubinemia",
+      "HP_0001878 |Hemolytic anemia"
+    ],
+    "Variant class": [
+      "3C ( VUS with low clinical significance, the evidence suggesting they are likely to be benign)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0072",
+    "internalIDs": "18W001338",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0001250 |Seizures",
+      "HP_0011398 |Central hypotonia",
+      "HP_0002509 |Limb hypertonia"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Hemizygous (X-linked)"
+    ]
+  },
+  {
+    "externalIDs": "AC0052",
+    "internalIDs": "18W001362",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0000252 |Microcephaly",
+      "HP_0001629 |Ventricular septal defect",
+      "HP_0001631 |Atrial septal defect",
+      "HP_0012304 |Hypoplastic aortic arch",
+      "HP_0008468 |Abnormal sacral segmentation",
+      "HP_0000637 |Long palpebral fissure",
+      "HP_0045075 |Sparse eyebrow",
+      "HP_0004467 |Preauricular pit",
+      "HP_0000347 |Micrognathia",
+      "HP_0000193 |Bifid uvula"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0079",
+    "internalIDs": "18W001454",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Abnormal pulmonary Interstitial morphology"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0050",
+    "internalIDs": "19W000003",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hypertrophic cardiomyopathy",
+      "Hypertension",
+      "Elevated serum creatine phosphokinase"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0067",
+    "internalIDs": "19W000011",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hyperammonemia",
+      "Hypoglycemia",
+      "Metabolic acidosis",
+      "Abnormality of the coagulation cascade",
+      "Elevated hepatic transaminases"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0063",
+    "internalIDs": "19W000079",
+    "sex": "Female",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Renal insufficiency"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0073",
+    "internalIDs": "18W000325",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "Yes (1 or more)",
+    "Number of affected siblings:": 1,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Global developmental delay",
+      "Seizures",
+      "Cortical visual impairment",
+      "Hearing impairment"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0008",
+    "internalIDs": "18W000377",
+    "sex": "Female",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001561 |Polyhydramnios"
+    ],
+    "Principal phenotypic features": [
+      "Muscle weakness",
+      "Generalized hypotonia",
+      "Areflexia",
+      "Myopathic facies"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Splicing",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Homozygous",
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0058",
+    "internalIDs": "18W000466",
+    "sex": "Female",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "Pancytopenia",
+      "Abnormality of coagulation",
+      "Increased serum lactate",
+      "Hyperammonemia"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0005",
+    "internalIDs": "18W000483",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Central hypotonia",
+      "Recurrent infections"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0009",
+    "internalIDs": "18W000612",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Epileptic encephalopathy",
+      "Intellectual disability, profound",
+      "Congenital neutropenia",
+      "Abnormal aortic valve morphology"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0030",
+    "internalIDs": "18W000623",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0009800 |Maternal diabetes",
+      "HP:0001623 |Breech presentation"
+    ],
+    "Principal phenotypic features": [
+      "Generalized hypotonia",
+      "Seizures",
+      "Leukodystrophy",
+      "Optic atrophy",
+      "Horseshoe kidney",
+      "Talipes equinovarus",
+      "Hip dysplasia"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)",
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0014",
+    "internalIDs": "18W000695",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Seizures",
+      "Dyskinesia"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0022",
+    "internalIDs": "18W000718",
+    "sex": "Male",
+    "Participant Ethnicity": "",
+    "Maternal Ethnicity": "",
+    "Paternal Ethnicity": "",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Epileptic encephalopathy",
+      "Triggered by febrile illness"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0012",
+    "internalIDs": "18W000730",
+    "sex": "Female",
+    "Participant Ethnicity": "",
+    "Maternal Ethnicity": "",
+    "Paternal Ethnicity": "",
+    "Is mother affected?": "",
+    "Is father affected?": "",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001561 |Polyhydramnios"
+    ],
+    "Principal phenotypic features": [
+      "Hypomagnesemia",
+      "Hypokalemia"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0084",
+    "internalIDs": "18W000870",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001562 |Oligohydramnios"
+    ],
+    "Principal phenotypic features": [
+      "Steroid-resistant nephrotic syndrome",
+      "Hypothyroidism",
+      "Strabismus",
+      "Trigonocephaly",
+      "Low-set ears",
+      "Narrow palpebral fissure"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Frameshift",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0047",
+    "internalIDs": "18W000845",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hypertrophic cardiomyopathy"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0041",
+    "internalIDs": "18W000945",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "Yes (1 or more)",
+    "Number of affected siblings:": 1,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0010878 |Fetal cystic hygroma",
+      "HP:0000969 |Edema",
+      "HP:0002119 |Ventriculomegaly",
+      "HP:0001789 |Hydrops fetalis"
+    ],
+    "Principal phenotypic features": [
+      "Low-set ears",
+      "Ascites",
+      "Pleural effusion"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0034",
+    "internalIDs": "18W001050",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Esophageal atresia",
+      "Tracheo-oesophageal fistula",
+      "Choanal atresia",
+      "Hypocalcemia",
+      "Clinodactyly",
+      "Short palpebral fissure"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0057",
+    "internalIDs": "18W001097",
+    "sex": "Female",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "Yes (1 or more)",
+    "Number of affected siblings:": 3,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP:0001561 |Polyhydramnios",
+      "HP:0001195 |Single umbilical artery"
+    ],
+    "Principal phenotypic features": [
+      "Pulmonic stenosis",
+      "Thrombocytopenia",
+      "Short neck",
+      "Redundant neck skin",
+      "Low-set ears",
+      "Hypoxemia"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0004",
+    "internalIDs": "18W001136",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Seizures",
+      "Generalized hypotonia",
+      "Apnea",
+      "Cerebral edema"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0044",
+    "internalIDs": "18W001250",
+    "sex": "Female",
+    "Participant Ethnicity": "Ashkenazi Jew",
+    "Maternal Ethnicity": "Ashkenazi Jew",
+    "Paternal Ethnicity": "Ashkenazi Jew",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 4,
+    "Relevant pregnancy information": [
+      "HP_0001789 |Hydrops fetalis"
+    ],
+    "Principal phenotypic features": [
+      "HP_0001789 |Hydrops fetalis",
+      "HP_0010310 |Chylothorax",
+      "HP_0000347 |Micrognathia"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense",
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Homozygous",
+      "Heterozygous",
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0001",
+    "internalIDs": "18W001271",
+    "sex": "Female",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0011398 |Central hypotonia",
+      "HP_0001508 |Failure to thrive",
+      "HP_0011169 |Generalized clonic seizures",
+      "HP_0000737 |Irritability",
+      "HP_0002490 |Increased CSF lactate",
+      "HP_0001695 |Cardiac arrest"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0027",
+    "internalIDs": "18W001510",
+    "sex": "Male",
+    "Participant Ethnicity": "",
+    "Maternal Ethnicity": "",
+    "Paternal Ethnicity": "",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Stroke",
+      "Vasculitis",
+      "Generalized seizures",
+      "Apnea"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0062",
+    "internalIDs": "18W001523",
+    "sex": "Female",
+    "Participant Ethnicity": "Other Oceanian",
+    "Maternal Ethnicity": "Other Oceanian",
+    "Paternal Ethnicity": "Other Oceanian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Seizures",
+      "Generalized hypotonia"
+    ],
+    "Variant class": [
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0006",
+    "internalIDs": "18W001539",
+    "sex": "Female",
+    "Participant Ethnicity": "",
+    "Maternal Ethnicity": "",
+    "Paternal Ethnicity": "",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Bilateral vocal cord paralysis",
+      "Ventricular septal defect",
+      "Bulbar signs",
+      "Generalized hypotonia",
+      "Low-set ears",
+      "Tented upper lip vermilion"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0053",
+    "internalIDs": "19W000037",
+    "sex": "Male",
+    "Participant Ethnicity": "Sub-Saharan African",
+    "Maternal Ethnicity": "Sub-Saharan African",
+    "Paternal Ethnicity": "Sub-Saharan African",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Microcephaly",
+      "Hypoventilation",
+      "EEG with burst suppression",
+      "Pontocerebellar atrophy"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Splicing"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0029",
+    "internalIDs": "19W000066",
+    "sex": "Female",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0030746 |Intraventricular hemorrhage"
+    ],
+    "Principal phenotypic features": [
+      "Hydrocephalus",
+      "Cerebral hemorrhage",
+      "Macrocephaly"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0016",
+    "internalIDs": "18W001054",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0200134 |Epileptic encephalopathy",
+      "HP_0000256 |Macrocephaly"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0077",
+    "internalIDs": "18W001312",
+    "sex": "Female",
+    "Participant Ethnicity": "European (Non-Finnish),Australian/New Zealander",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP_0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "HP_0011344 |Severe global developmental delay",
+      "HP_0011398 |Central hypotonia",
+      "HP_0002509 |Limb hypertonia",
+      "HP_0012448 |Delayed myelination"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0020",
+    "internalIDs": "18W000936",
+    "sex": "Male",
+    "Participant Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Maternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Paternal Ethnicity": "European (Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "HP_0000938 |Osteopenia",
+      "HP_0003015 |Flared metaphysis",
+      "HP_0002980 |Femoral bowing",
+      "HP_0000316 |Hypertelorism",
+      "HP_0001156 |Brachydactyly",
+      "HP_0000023 |Inguinal hernia",
+      "HP_0002148 |Hypophosphatemia",
+      "HP_0003109 |Hyperphosphaturia"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0064",
+    "internalIDs": "18W001209",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0001250 |Seizures",
+      "Petechiae"
+    ],
+    "Variant class": [
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Other"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0078",
+    "internalIDs": "18W001323",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0000083 |Renal insufficiency"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0035",
+    "internalIDs": "18W001429",
+    "sex": "Female",
+    "Participant Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Maternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Paternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0001558 |Decreased fetal movement",
+      "HP:0001883 |Talipes",
+      "HP:0001561 |Polyhydramnios",
+      "HP:0009800 |Maternal diabetes"
+    ],
+    "Principal phenotypic features": [
+      "Arthrogryposis multiplex congenita",
+      "Diminished movement",
+      "Ventriculomegaly",
+      "Scoliosis",
+      "Diaphragmatic eventration"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0010",
+    "internalIDs": "18W001516",
+    "sex": "Female",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Chronic colitis"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0068",
+    "internalIDs": "18W000537",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "Yes (1 or more)",
+    "Number of affected siblings:": 1,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Bilateral cleft lip and palate",
+      "Multiple muscular ventricular septal defects"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0015",
+    "internalIDs": "18W000615",
+    "sex": "Female",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Epileptic encephalopathy",
+      "Global developmental delay",
+      "Dystonia"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Splicing"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0024",
+    "internalIDs": "18W000825",
+    "sex": "Female",
+    "Participant Ethnicity": "Maori/Pacific Islander,Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Maori/Pacific Islander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Encephalopathy",
+      "Seizures",
+      "Bilateral basal ganglia lesions",
+      "Ketoacidosis",
+      "Increased serum lactate"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0069",
+    "internalIDs": "18W000904",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0001558 |Decreased fetal movement",
+      "HP:0001561 |Polyhydramnios"
+    ],
+    "Principal phenotypic features": [
+      "Central hypotonia",
+      "Bulbar signs",
+      "Infantile spasms",
+      "Delayed myelination"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0080",
+    "internalIDs": "18W001513",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Epileptic encephalopathy"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0037",
+    "internalIDs": "19W000017",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "Diaphragmatic paralysis"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense",
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0026",
+    "internalIDs": "18W000818",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hypertrophic cardiomyopathy",
+      "Low-set ears",
+      "Thickened nuchal skin fold",
+      "Wide intermamillary distance",
+      "Micropenis",
+      "Cervical ribs",
+      "Thrombocytopenia"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0082",
+    "internalIDs": "18W000951",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Unknown",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP:0009800 |Maternal diabetes"
+    ],
+    "Principal phenotypic features": [
+      "Global developmental delay",
+      "Seizures",
+      "Failure to thrive",
+      "Abnormality of the hair",
+      "Tortuous cerebral arteries"
+    ],
+    "Variant class": [],
+    "Variant type": [
+      "Whole gene deletion"
+    ],
+    "Variant Zygosity": [
+      "Hemizygous (X-linked)"
+    ]
+  },
+  {
+    "externalIDs": "AC0007",
+    "internalIDs": "18W001058",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Dilated cardiomyopathy"
+    ],
+    "Variant class": [
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0081",
+    "internalIDs": "18W001110",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish),Asian",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Seizures",
+      "Hypertonia",
+      "EEG with frontal sharp waves",
+      "HP:0040328 |Focal hyperintensity of cerebral white matter on MRI"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0025",
+    "internalIDs": "18W001125",
+    "sex": "Female",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Aplasia/Hypoplasia of the nails",
+      "Hirsutism",
+      "Hypoglycemia",
+      "Atrial septal defect",
+      "Ventricular septal defect",
+      "Biventricular hypertrophy"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0013",
+    "internalIDs": "18W001237",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP_0001561 |Polyhydramnios"
+    ],
+    "Principal phenotypic features": [
+      "HP_0004381 |Supravalvular aortic stenosis",
+      "HP_0001631 |Atrial septal defect",
+      "HP_0001643 |Patent ductus arteriosus",
+      "HP_0002908 |Conjugated hyperbilirubinemia",
+      "HP_0001744 |Splenomegaly",
+      "HP_0002901 |Hypocalcemia"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0032",
+    "internalIDs": "18W001467",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP:0001561 |Polyhydramnios",
+      "HP:0001883 |Talipes"
+    ],
+    "Principal phenotypic features": [
+      "Micrognathia",
+      "Small for gestational age",
+      "Arthrogryposis multiplex congenita"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0055",
+    "internalIDs": "18W001500",
+    "sex": "Male",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Dystonia",
+      "Microcephaly",
+      "Bulbar signs",
+      "Intellectual disability, severe",
+      "Cerebellar atrophy",
+      "Epilepsia partialis continua",
+      "Caudate atrophy",
+      "Abnormal globus pallidus morphology"
+    ],
+    "Variant class": [
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0018",
+    "internalIDs": "18W001359",
+    "sex": "Male",
+    "Participant Ethnicity": "Asian",
+    "Maternal Ethnicity": "Asian",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Deep cerebral white matter hyperdensities",
+      "Acute encephalopathy"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0046",
+    "internalIDs": "18W000611",
+    "sex": "Female",
+    "Participant Ethnicity": "Maori/Pacific Islander,Australian/New Zealander",
+    "Maternal Ethnicity": "Maori/Pacific Islander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP:0009800 |Maternal diabetes",
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "Respiratory insufficiency",
+      "Pulmonary arterial hypertension",
+      "Pulmonic stenosis",
+      "Depressed nasal bridge",
+      "Anteverted nares",
+      "Long philtrum",
+      "Narrow mouth",
+      "Micrognathia",
+      "Single transverse palmar crease"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0075",
+    "internalIDs": "18W001072",
+    "sex": "Male",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [
+      "HP:0001511 |Intrauterine growth retardation",
+      "HP:0011438 |Maternal teratogenic exposure"
+    ],
+    "Principal phenotypic features": [
+      "Tetralogy of Fallot",
+      "Bilateral retinal coloboma",
+      "Hypospadias",
+      "Talipes equinovarus",
+      "Hemivertebrae",
+      "Hypoglycemia",
+      "Anemia",
+      "Thrombocytopenia",
+      "Multiple renal cysts"
+    ],
+    "Variant class": [
+      "3C ( VUS with low clinical significance, the evidence suggesting they are likely to be benign)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0056",
+    "internalIDs": "18W001283",
+    "sex": "Female",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "Yes",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [
+      "HP_0001789 |Hydrops fetalis",
+      "HP_0002202 |Pleural effusion",
+      "HP_0002089 |Pulmonary hypoplasia"
+    ],
+    "Principal phenotypic features": [
+      "HP_0001789 |Hydrops fetalis",
+      "HP_0001629 |Ventricular septal defect"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0038",
+    "internalIDs": "18W001505",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish),North African/Middle Eastern",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 3,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Microcephaly",
+      "Hypertonia",
+      "Distal arthrogryposis",
+      "EEG with burst suppression",
+      "Lissencephaly"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "5 (Pathogenic (considered disease-causing))",
+      "3B ( VUS with insufficient evidence to classify it as either disease causing or likely benign)"
+    ],
+    "Variant type": [
+      "Nonsense (premature stop)",
+      "Frameshift",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0019",
+    "internalIDs": "18W001418",
+    "sex": "Male",
+    "Participant Ethnicity": "",
+    "Maternal Ethnicity": "",
+    "Paternal Ethnicity": "",
+    "Is mother affected?": "",
+    "Is father affected?": "",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Diaphragmatic eventration",
+      "Deeply set eye",
+      "Interstitial pulmonary abnormality",
+      "Pulmonary arterial hypertension"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0040",
+    "internalIDs": "18W000997",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish)",
+    "Maternal Ethnicity": "European (Non-Finnish)",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0000842 |Hyperinsulinemia",
+      "HP_0001943 |Hypoglycemia",
+      "HP_0001250 |Seizures",
+      "HP_0002352 |Leukoencephalopathy"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0086",
+    "internalIDs": "18W001290",
+    "sex": "Male",
+    "Participant Ethnicity": "Declined to specify/Unknown",
+    "Maternal Ethnicity": "Declined to specify/Unknown",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0006530 |Interstitial pulmonary abnormality",
+      "HP_0002107 |Pneumothorax"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0070",
+    "internalIDs": "18W001412",
+    "sex": "Female",
+    "Participant Ethnicity": "Asian,People of the Americas",
+    "Maternal Ethnicity": "People of the Americas",
+    "Paternal Ethnicity": "Asian",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP_0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "HP_0001636 |Tetralogy of Fallot",
+      "HP_0002553 |Highly arched eyebrow",
+      "HP_0000463 |Anteverted nares",
+      "HP_0000319 |Smooth philtrum",
+      "HP_0000347 |Micrognathia",
+      "HP_0000252 |Microcephaly"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "3A (VUS with high clinical significance (not enough information to classify them as class 4)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Missense"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0011",
+    "internalIDs": "18W001368",
+    "sex": "Female",
+    "Participant Ethnicity": "Australian/New Zealander",
+    "Maternal Ethnicity": "Australian/New Zealander",
+    "Paternal Ethnicity": "Australian/New Zealander",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "HP_0001274 |Agenesis of corpus callosum",
+      "HP_0001321 |Cerebellar hypoplasia",
+      "HP_0003422 |Vertebral segmentation defect"
+    ],
+    "Variant class": [
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Frameshift"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0002",
+    "internalIDs": "18W001445",
+    "sex": "Female",
+    "Participant Ethnicity": "North African/Middle Eastern",
+    "Maternal Ethnicity": "North African/Middle Eastern",
+    "Paternal Ethnicity": "North African/Middle Eastern",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 0,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Multiple prenatal fractures",
+      "Slender long bone",
+      "Multiple joint contractures",
+      "Ventriculomegaly",
+      "Coarse facial features"
+    ],
+    "Variant class": [],
+    "Variant type": [],
+    "Variant Zygosity": []
+  },
+  {
+    "externalIDs": "AC0033",
+    "internalIDs": "19W000047",
+    "sex": "Male",
+    "Participant Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Maternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Paternal Ethnicity": "Declined to specify/Unknown",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 1,
+    "Relevant pregnancy information": [],
+    "Principal phenotypic features": [
+      "Hydrops fetalis",
+      "Multiple joint contractures",
+      "Downslanted palpebral fissures"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))"
+    ],
+    "Variant type": [
+      "Frameshift"
+    ],
+    "Variant Zygosity": [
+      "Homozygous"
+    ]
+  },
+  {
+    "externalIDs": "AC0085",
+    "internalIDs": "19W000040",
+    "sex": "Male",
+    "Participant Ethnicity": "European (Non-Finnish),Aboriginal/Torres Strait Islander",
+    "Maternal Ethnicity": "Aboriginal/Torres Strait Islander",
+    "Paternal Ethnicity": "European (Non-Finnish)",
+    "Is mother affected?": "No",
+    "Is father affected?": "No",
+    "Is there an affected sibling?": "",
+    "Number of affected siblings:": null,
+    "Is there an affected child?": "",
+    "Number of affected children:": "",
+    "Consanguinity": "No",
+    "Number of variants reported": 2,
+    "Relevant pregnancy information": [
+      "HP:0100602 |Preeclampsia",
+      "HP:0001511 |Intrauterine growth retardation"
+    ],
+    "Principal phenotypic features": [
+      "Metabolic acidosis",
+      "Increased serum lactate",
+      "Hypospadias",
+      "Cryptorchidism"
+    ],
+    "Variant class": [
+      "5 (Pathogenic (considered disease-causing))",
+      "4 (Likely pathogenic)"
+    ],
+    "Variant type": [
+      "Missense",
+      "Splicing"
+    ],
+    "Variant Zygosity": [
+      "Heterozygous",
+      "Heterozygous"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+services:
+  clinical-db:
+    image: neo4j:latest
+    ports:
+      - 7688:7687
+      - 7475:7474
+    volumes:
+      - ~/neo4j/staging/data:/data
+      - ~/neo4j/staging/plugins:/plugins
+      - ~/neo4j/staging/logs:/logs
+      - ~/neo4j/staging/import:/var/lib/neo4j/import
+    environment:
+      - NEO4J_AUTH=neo4j/ZXm#uURg!*3D7yDYvX$$6
+      - NEO4JLABS_PLUGINS='["apoc", "n10s"]'
+
+  clinical-api:
+    build:
+      context: .
+    environment:
+      - NEO4J_PASS
+      - AUTH0_AUDIENCE
+      - AUTH0_CLIENT_SECRET
+      - AUTH0_CLAIMS
+      - AUTH0_DOMAIN
+    ports:
+      - 5001:4001
+    depends_on:
+      - clinical-db

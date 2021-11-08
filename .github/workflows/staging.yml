@@ -1,0 +1,49 @@
+name: deploy-staging
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  pull_request:
+    branches: [master]
+
+  workflow_dispatch:
+
+jobs:
+  # build staging containers
+  build:
+    runs-on: self-hosted
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          path: "staging/"
+
+      - name: Debug - List files in directoy
+        run: ls -la
+
+      - name: Debug - List PWD
+        run: pwd
+
+      - name: Deploy - build staging container
+        env:
+          NEO4J_PASS: ${{ secrets.NEO4J_PASS }}
+          AUTH0_CLAIMS: ${{ secrets.AUTH0_CLAIMS }}
+          AUTH0_AUDIENCE: ${{ secrets.AUTH0_AUDIENCE }}
+          AUTH0_CLIENT_SECRET: ${{ secrets.AUTH0_CLIENT_SECRET }}
+          AUTH0_DOMAIN: ${{ secrets.AUTH0_DOMAIN }}
+        run: cd staging && docker-compose -f docker-compose.staging.yml build
+
+  # deploy production containers
+  deploy:
+    runs-on: self-hosted
+    needs: build
+
+    steps:
+      - name: Deploy - Bring up staging container
+        env:
+          NEO4J_PASS: ${{ secrets.NEO4J_PASS }}
+          AUTH0_CLAIMS: ${{ secrets.AUTH0_CLAIMS }}
+          AUTH0_AUDIENCE: ${{ secrets.AUTH0_AUDIENCE }}
+          AUTH0_CLIENT_SECRET: ${{ secrets.AUTH0_CLIENT_SECRET }}
+          AUTH0_DOMAIN: ${{ secrets.AUTH0_DOMAIN }}
+        run: cd staging && docker-compose -f docker-compose.staging.yml up -d

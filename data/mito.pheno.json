@@ -1,0 +1,972 @@
+[
+  {
+    "externalIDs": "MITO0038",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Arrhythmia",
+      "Left ventricular noncompaction cardiomyopathy",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development",
+      "Spasticity"
+    ],
+    "internalIDs": "17W000217"
+  },
+  {
+    "externalIDs": "MITO0053",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W000223"
+  },
+  {
+    "externalIDs": "MITO0029",
+    "Gender": "MALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy",
+      "Muscle weakness"
+    ],
+    "internalIDs": "17W000268"
+  },
+  {
+    "externalIDs": "MITO0054",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy"
+    ],
+    "internalIDs": "17W000281"
+  },
+  {
+    "externalIDs": "MITO0055",
+    "Gender": "MALE",
+    "Condition": [
+      "Dilated cardiomyopathy"
+    ],
+    "internalIDs": "17W000284"
+  },
+  {
+    "externalIDs": "MITO0046",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "17W000306"
+  },
+  {
+    "externalIDs": "MITO0031",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Developmental regression",
+      "Rhabdomyolysis",
+      "Seizures",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "17W000312"
+  },
+  {
+    "externalIDs": "MITO0056",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Muscle weakness",
+      "Rhabdomyolysis"
+    ],
+    "internalIDs": "17W000334"
+  },
+  {
+    "externalIDs": "MITO0057",
+    "Gender": "MALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy",
+      "Muscle weakness",
+      "Seizures"
+    ],
+    "internalIDs": "17W000354"
+  },
+  {
+    "externalIDs": "MITO0003",
+    "Gender": "MALE",
+    "Condition": [
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "17W000391"
+  },
+  {
+    "externalIDs": "MITO0028",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "17W000519"
+  },
+  {
+    "externalIDs": "MITO0027",
+    "Gender": "MALE",
+    "Condition": [
+      "Constipation",
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Apnea",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W000552"
+  },
+  {
+    "externalIDs": "MITO0058",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Intestinal pseudo-obstruction",
+      "Motor delay",
+      "Developmental regression",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "17W000597"
+  },
+  {
+    "externalIDs": "MITO0019",
+    "Gender": "MALE",
+    "Condition": [
+      "Constipation",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Peripheral neuropathy",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W000621"
+  },
+  {
+    "externalIDs": "MITO0006",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "17W000648"
+  },
+  {
+    "externalIDs": "MITO0059",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Muscle weakness",
+      "Peripheral neuropathy"
+    ],
+    "internalIDs": "17W000672"
+  },
+  {
+    "externalIDs": "MITO0060",
+    "Gender": "MALE",
+    "Condition": [
+      "Constipation",
+      "Motor delay",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W000742"
+  },
+  {
+    "externalIDs": "MITO0047",
+    "Gender": "MALE",
+    "Condition": [
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Motor delay",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity"
+    ],
+    "internalIDs": "17W000779"
+  },
+  {
+    "externalIDs": "MITO0061",
+    "Gender": "MALE",
+    "Condition": [
+      "Intellectual disability",
+      "Motor delay",
+      "Developmental regression"
+    ],
+    "internalIDs": "17W000831"
+  },
+  {
+    "externalIDs": "MITO0002",
+    "Gender": "MALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Apnea",
+      "Rhabdomyolysis",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity"
+    ],
+    "internalIDs": "17W000865"
+  },
+  {
+    "externalIDs": "MITO0062",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Seizures",
+      "Delayed speech and language development",
+      "Spasticity",
+      "Cataract",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "17W000873"
+  },
+  {
+    "externalIDs": "MITO0012",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W000925"
+  },
+  {
+    "externalIDs": "MITO0063",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Peripheral neuropathy"
+    ],
+    "internalIDs": "17W000934"
+  },
+  {
+    "externalIDs": "MITO0023",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "17W000971"
+  },
+  {
+    "externalIDs": "MITO0064",
+    "Gender": "MALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Truncal ataxia",
+      "Constipation",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Nystagmus"
+    ],
+    "internalIDs": "17W000990"
+  },
+  {
+    "externalIDs": "MITO0039",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Arrhythmia",
+      "Hypertrophic cardiomyopathy",
+      "Sensorineural hearing impairment",
+      "Motor delay"
+    ],
+    "internalIDs": "18W000102"
+  },
+  {
+    "externalIDs": "MITO0011",
+    "Gender": "MALE",
+    "Condition": [
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W001039"
+  },
+  {
+    "externalIDs": "MITO0013",
+    "Gender": "MALE",
+    "Condition": [
+      "Arrhythmia",
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Motor delay",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity",
+      "Cataract"
+    ],
+    "internalIDs": "17W001053"
+  },
+  {
+    "externalIDs": "MITO0020",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Migraine",
+      "Rhabdomyolysis",
+      "Stroke-like episode"
+    ],
+    "internalIDs": "17W001063"
+  },
+  {
+    "externalIDs": "MITO0030",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W001087"
+  },
+  {
+    "externalIDs": "MITO0065",
+    "Gender": "MALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity"
+    ],
+    "internalIDs": "16G004037"
+  },
+  {
+    "externalIDs": "MITO0005",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Arrhythmia",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Peripheral neuropathy"
+    ],
+    "internalIDs": "17W001118"
+  },
+  {
+    "externalIDs": "MITO0066",
+    "Gender": "MALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Constipation",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Apnea",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Spasticity",
+      "Nystagmus"
+    ],
+    "internalIDs": "17W001121"
+  },
+  {
+    "externalIDs": "MITO0067",
+    "Gender": "MALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Apnea",
+      "Kussmaul's respiration",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "17W001127"
+  },
+  {
+    "externalIDs": "MITO0068",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Diabetes mellitus",
+      "Muscle weakness",
+      "Ragged-red muscle fibers"
+    ],
+    "internalIDs": "17W001129"
+  },
+  {
+    "externalIDs": "MITO0069",
+    "Gender": "MALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "17W001142"
+  },
+  {
+    "externalIDs": "MITO0004",
+    "Gender": "MALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Constipation",
+      "Sensorineural hearing impairment",
+      "Diabetes mellitus",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Ragged-red muscle fibers",
+      "Muscular hypotonia",
+      "Nystagmus",
+      "Rod-cone dystrophy"
+    ],
+    "internalIDs": "17W001162"
+  },
+  {
+    "externalIDs": "MITO0070",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Sensorineural hearing impairment",
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Developmental regression",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Rod-cone dystrophy"
+    ],
+    "internalIDs": "17W001163"
+  },
+  {
+    "externalIDs": "MITO0024",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "17W001168"
+  },
+  {
+    "externalIDs": "MITO0042",
+    "Gender": "MALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Stroke-like episode",
+      "Muscular hypotonia",
+      "Spasticity",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "18W000001"
+  },
+  {
+    "externalIDs": "MITO0048",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Motor delay",
+      "Apnea",
+      "Seizures"
+    ],
+    "internalIDs": "18W000003"
+  },
+  {
+    "externalIDs": "MITO0040",
+    "Gender": "MALE",
+    "Condition": [
+      "Arrhythmia",
+      "Dilated cardiomyopathy",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Optic atrophy"
+    ],
+    "internalIDs": "18W000012"
+  },
+  {
+    "externalIDs": "MITO0071",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "18W000014"
+  },
+  {
+    "externalIDs": "MITO0018",
+    "Gender": "MALE",
+    "Condition": [
+      "Muscle weakness",
+      "Ragged-red muscle fibers"
+    ],
+    "internalIDs": "18W000015"
+  },
+  {
+    "externalIDs": "MITO0072",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Renal tubular acidosis",
+      "Seizures",
+      "Delayed speech and language development",
+      "Spasticity",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "18W000052"
+  },
+  {
+    "externalIDs": "MITO0073",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Developmental regression",
+      "Spasticity"
+    ],
+    "internalIDs": "18W000061"
+  },
+  {
+    "externalIDs": "MITO0074",
+    "Gender": "MALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W000088"
+  },
+  {
+    "externalIDs": "MITO0075",
+    "Gender": "MALE",
+    "Condition": [
+      "Constipation",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Delayed speech and language development"
+    ],
+    "internalIDs": "18W000089"
+  },
+  {
+    "externalIDs": "MITO0034",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Seizures"
+    ],
+    "internalIDs": "18W000218"
+  },
+  {
+    "externalIDs": "MITO0076",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Developmental regression",
+      "Muscular hypotonia",
+      "Optic atrophy"
+    ],
+    "internalIDs": "18W000252"
+  },
+  {
+    "externalIDs": "MITO0036",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W000273"
+  },
+  {
+    "externalIDs": "MITO0077",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Constipation",
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W000303"
+  },
+  {
+    "externalIDs": "MITO0008",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Delayed social development",
+      "Motor delay",
+      "Muscle weakness",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W000304"
+  },
+  {
+    "externalIDs": "MITO0078",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "18W000388"
+  },
+  {
+    "externalIDs": "MITO0001",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "18W000390"
+  },
+  {
+    "externalIDs": "MITO0079",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Muscle weakness"
+    ],
+    "internalIDs": "18W000391"
+  },
+  {
+    "externalIDs": "MITO0016",
+    "Gender": "MALE",
+    "Condition": [
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Seizures",
+      "Delayed speech and language development",
+      "Rod-cone dystrophy"
+    ],
+    "internalIDs": "18W000392"
+  },
+  {
+    "externalIDs": "MITO0080",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W000394"
+  },
+  {
+    "externalIDs": "MITO0017",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W000408"
+  },
+  {
+    "externalIDs": "MITO0035",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Truncal ataxia",
+      "Muscle weakness",
+      "Seizures",
+      "Stroke-like episode",
+      "Cortical visual impairment",
+      "Glaucoma",
+      "Rod-cone dystrophy"
+    ],
+    "internalIDs": "18W000494"
+  },
+  {
+    "externalIDs": "MITO0033",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Rhabdomyolysis"
+    ],
+    "internalIDs": "18W000507"
+  },
+  {
+    "externalIDs": "MITO0081",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Muscle weakness",
+      "Rhabdomyolysis"
+    ],
+    "internalIDs": "18W000543"
+  },
+  {
+    "externalIDs": "MITO0037",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Migraine",
+      "Ragged-red muscle fibers"
+    ],
+    "internalIDs": "18W000638"
+  },
+  {
+    "externalIDs": "MITO0052",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Increased muscle fatiguability",
+      "Migraine",
+      "Rhabdomyolysis"
+    ],
+    "internalIDs": "18W000639"
+  },
+  {
+    "externalIDs": "MITO0082",
+    "Gender": "MALE",
+    "Condition": [
+      "Diabetes mellitus",
+      "Increased muscle fatiguability",
+      "Muscle weakness"
+    ],
+    "internalIDs": "18W000646"
+  },
+  {
+    "externalIDs": "MITO0010",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "18W000688"
+  },
+  {
+    "externalIDs": "MITO0049",
+    "Gender": "MALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Diabetes mellitus",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Muscle weakness",
+      "Ragged-red muscle fibers"
+    ],
+    "internalIDs": "18W000767"
+  },
+  {
+    "externalIDs": "MITO0050",
+    "Gender": "MALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Motor delay",
+      "Muscle weakness",
+      "Peripheral neuropathy",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W000779"
+  },
+  {
+    "externalIDs": "MITO0043",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Delayed social development",
+      "Intellectual disability",
+      "Motor delay",
+      "Muscle weakness",
+      "Seizures",
+      "Delayed speech and language development",
+      "Spasticity"
+    ],
+    "internalIDs": "18W000856"
+  },
+  {
+    "externalIDs": "MITO0022",
+    "Gender": "MALE",
+    "Condition": [
+      "Sensorineural hearing impairment",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Intellectual disability",
+      "Motor delay",
+      "Delayed speech and language development",
+      "Muscular hypotonia",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "18W000886"
+  },
+  {
+    "externalIDs": "MITO0015",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W000940"
+  },
+  {
+    "externalIDs": "MITO0045",
+    "Gender": "MALE",
+    "Condition": [],
+    "internalIDs": "18W001000"
+  },
+  {
+    "externalIDs": "MITO0009",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W001003"
+  },
+  {
+    "externalIDs": "MITO0014",
+    "Gender": "MALE",
+    "Condition": [
+      "Sensorineural hearing impairment",
+      "Increased muscle fatiguability",
+      "Muscle weakness",
+      "Ragged-red muscle fibers",
+      "Cortical visual impairment"
+    ],
+    "internalIDs": "18W001082"
+  },
+  {
+    "externalIDs": "MITO0041",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Delayed social development",
+      "Intestinal pseudo-obstruction",
+      "Intellectual disability",
+      "Motor delay",
+      "Migraine",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W001263"
+  },
+  {
+    "externalIDs": "MITO0007",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Disorder of cranial nerve",
+      "Constipation",
+      "Delayed social development",
+      "Increased muscle fatiguability",
+      "Motor delay",
+      "Muscle weakness",
+      "Developmental regression",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W001264"
+  },
+  {
+    "externalIDs": "MITO0051",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "18W001278"
+  },
+  {
+    "externalIDs": "MITO0021",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Constipation",
+      "Increased muscle fatiguability",
+      "Intestinal pseudo-obstruction",
+      "Muscle weakness",
+      "Migraine",
+      "Developmental regression",
+      "Spasticity"
+    ],
+    "internalIDs": "18W001351"
+  },
+  {
+    "externalIDs": "MITO0044",
+    "Gender": "MALE",
+    "Condition": [
+      "Hypertrophic cardiomyopathy",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W001428"
+  },
+  {
+    "externalIDs": "MITO0026",
+    "Gender": "FEMALE",
+    "Condition": [
+      "Arrhythmia",
+      "Hypertrophic cardiomyopathy",
+      "Delayed social development",
+      "Intellectual disability",
+      "Developmental regression",
+      "Seizures",
+      "Delayed speech and language development",
+      "Muscular hypotonia"
+    ],
+    "internalIDs": "18W001476"
+  },
+  {
+    "externalIDs": "MITO0032",
+    "Gender": "MALE",
+    "Condition": [
+      "Migraine"
+    ],
+    "internalIDs": "18W001491"
+  },
+  {
+    "externalIDs": "MITO0025",
+    "Gender": "FEMALE",
+    "Condition": [],
+    "internalIDs": "17W000647"
+  }
+]
